@@ -1,0 +1,99 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 14
+/svn/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/45/trunk/src
+END
+Table.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/46/trunk/src/Table.cpp
+END
+Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/46/trunk/src/Common.h
+END
+Table.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/46/trunk/src/Table.h
+END
+BarEmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/46/trunk/src/BarEmp.cpp
+END
+Person.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/46/trunk/src/Person.h
+END
+BarEmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/46/trunk/src/BarEmp.h
+END
+Assistant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/46/trunk/src/Assistant.cpp
+END
+Customer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/46/trunk/src/Customer.cpp
+END
+barproblemihk10.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/46/trunk/src/barproblemihk10.cpp
+END
+Landlord.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/46/trunk/src/Landlord.cpp
+END
+Barmaid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/46/trunk/src/Barmaid.cpp
+END
+Assistant.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/46/trunk/src/Assistant.h
+END
+Customer.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/46/trunk/src/Customer.h
+END
+Landlord.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/46/trunk/src/Landlord.h
+END
+Barmaid.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/46/trunk/src/Barmaid.h
+END

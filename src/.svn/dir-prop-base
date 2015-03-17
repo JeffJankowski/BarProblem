@@ -1,0 +1,33 @@
+K 10
+svn:ignore
+V 282
+*.cproject
+*.project
+
+.directory
+
+Customer.cpp.r35
+
+Customer.cpp.badmerge
+
+Common.h.badmerge
+
+barproblemihk10.cpp.sketchmerge
+
+barproblemihk10.cpp.r35
+
+Common.h.r35
+
+barproblemihk10.cpp.r32
+
+barproblemihk10.cpp.mine
+
+Customer.cpp.r32
+
+Common.h.r32
+
+Common.h.mine
+
+Customer.cpp.mine
+
+END
